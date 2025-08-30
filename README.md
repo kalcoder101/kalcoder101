@@ -1,11 +1,11 @@
-# Hi there, @kalcoder101 👋
+Kaleab G. 改善
+ET-based freelance illustrator • graphic designer • developer
 
-## I'm a self-taught graphic designer, developer, and student!
-
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other developers
-- 🥅 2025 Goals: Learn more about full stack web development
-- ⚡ Fun fact: I love to draw and watch anime
+I’m Kaleab (Kaleab G. 改善), a 3rd-year BSc Computer Science student at Unity University and an ET-based freelance illustrator, graphic designer, and developer. I specialize in:
+• Clean, accessible websites and responsive UI/UX
+• Web-based art & animations (SVG/Canvas/WebGL)
+• Graphic design for brands, menus, and marketing materials
+• Server and network setup & site deployment
 
 ---
 
