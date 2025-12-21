@@ -1,7 +1,7 @@
 Kaleab G. 改善
 ET-based Graphic designer • developer
 
-I’m Kaleab (Kaleab G. 改善), a 3rd-year BSc Computer Science student at Unity University and an ET-based freelance illustrator, graphic designer, and developer. I specialize in:
+I’m Kaleab (Kaleab G. 改善), a 3rd-year BSc Computer Science student at Unity University and an ET-based Graphic designer, and developer. I specialize in:
 • Clean, accessible websites and responsive UI/UX
 • Web-based art & animations (SVG/Canvas/WebGL)
 • Graphic design for brands, menus, and marketing materials
