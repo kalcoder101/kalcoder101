@@ -1,14 +1,14 @@
 <div align="center">
-<img src="https://github.com/innng/innng/assets/26755058/5e0ce0fb-c544-4f8c-a307-5849165746d0" width="25%" align="right" />
-<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello+こんにちは;I'm+Sumona,+a+creative+Front-end+developer+%E2%9C%A9" width="70%" />
+<img src="./assets/wow.jpeg" width="25%" align="right" />
+<a href="https://readme-typing-svg.demolab.com/demo/?font=Inconsolata&weight=500&size=30&pause=300&color=A7A459&vCenter=true&lines=Hello+%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF;I'm+kal+%2C+a+creative+developer+%E2%9C%A9"><img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=30&pause=300&color=A7A459&vCenter=true&lines=Hello+%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF;I'm+kal+%2C+a+creative+developer+%E2%9C%A9" width="70%" /></a>
 <br><br>
 <pre>
-    💼 Frontend Developer • Web Designer • Video Editor
-    💻 Technologies: JS, TS, React, Next, TailwindCss, 
-    Motion, Github, Vercel, Python, C++
-    🎨 Design: After Effects, Photoshop, Figma, Alight Motion
-    📖 Learning: Supabase, Stripe
-    🎮 Hobbies: Editing, Coding, Gaming, Art
+    💼 BSC @UU Frontend Developer • Web Designer • Video Editor
+    💻 Technologies: JS, php, React, Java, TailwindCss, 
+    c++,Python, Github, Vercel, Python, C++
+    🎨 Design: Adobe Illustrator, Photoshop, Figma
+    📖 Learning: Supabase, Docker,postgres
+    🎮 Hobbies: Editing, Coding , Art
     🐾 Loves: Music, Anime & Manga, Coffee
 </pre>
 <br><br>
