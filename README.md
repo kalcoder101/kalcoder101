@@ -4,22 +4,26 @@
 <br><br>
 <pre>
     💼 BSc CS Student @ Unity University 
-    ⚡ Frontend Developer • UI Designer • Video Editor
-    💻 Technologies: JS, php, React, Java, TailwindCss, 
-    c++,Python, Github, Vercel, Python, C++
+    ⚡ Solo Dev • Startup Founder (Founder of something. Ask again in 6 months.)
+    💻 Tech Stack: PHP, MySQL, Java, Spring Boot, JavaScript, React, Flutter, Dart, Node.js
+    🔧 Tools: GitHub, Vercel, MariaDB, SQLite
     🎨 Design: Adobe Illustrator, Photoshop, Figma
     📖 Learning: Supabase, Docker,postgres
-    🎮 Hobbies: Editing, Coding , Art
-    🐾 Loves: Music, Anime & Manga, Coffee
-    😎 Pronouns: deploy/pray
+    🎮 Hobbies: Coding, breaking things, fixing things I broke, avoiding humans
+    🐾 Loves: Coffee, anime,side projects, silence, code that compiles first try (never happens)
+    😎 Status: 404 Social life not found
+    🚪 Social Battery: permanently at 0%
+    🚪 IRL Friends: still compiling
+    🚪 Goes outside: only for wifi outages
+    🚪 People: prefer them in anime form
 </pre>
 <br><br>
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="80" />
 <br><br><br>
     
-[![](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rllyexistin_) 
-[![](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumona-biswas/)
-[![](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@y0ake77) 
-[![](https://img.shields.io/badge/Peerlist-%2300AA45.svg?logo=peerlist&logoColor=white)](https://peerlist.io/sumona)
+![](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)
+![](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)
+![](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)
+![](https://img.shields.io/badge/Peerlist-%2300AA45.svg?logo=peerlist&logoColor=white)
 
 </div>
