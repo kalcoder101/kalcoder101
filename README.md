@@ -26,8 +26,8 @@
 <img src="https://api.iconify.design/tabler/minus.svg?color=%23A7A459" width="100%" height="1" />
 <br><br>
 
-<img src="https://github-readme-stats-dun-eta-95.vercel.app/api?username=kalcoder101&show_icons=true&theme=transparent&hide_border=true&title_color=A7A459&icon_color=A7A459&text_color=888888&hide_rank=false" width="49%" />
-<img src="https://github-readme-stats-dun-eta-95.vercel.app/api/top-langs/?username=kalcoder101&layout=compact&theme=transparent&hide_border=true&title_color=A7A459&text_color=888888" width="35%" />
+<img src="https://github-readme-stats-dun-eta-95.vercel.app/api?username=kalcoder101&show_icons=true&theme=transparent&hide_border=true&title_color=A7A459&icon_color=A7A459&text_color=888888&hide_rank=false&count_private=true" width="49%" />
+<img src="https://streak-stats.demolab.com/?user=kalcoder101&theme=transparent&hide_border=true&ring=A7A459&fire=A7A459&currStreakLabel=A7A459&sideLabels=888888&currStreakNum=888888&sideNums=888888&dates=888888&count_private=true" width="60%" />
 
 <br><br>
 
